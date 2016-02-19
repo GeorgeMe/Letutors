@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Letutors.iml" filepath="$PROJECT_DIR$/Letutors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidulbs/baidulbs.iml" filepath="$PROJECT_DIR$/baidulbs/baidulbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialog/dialog.iml" filepath="$PROJECT_DIR$/dialog/dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaogenerator/greendaogenerator.iml" filepath="$PROJECT_DIR$/greendaogenerator/greendaogenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openIM/openIM.iml" filepath="$PROJECT_DIR$/openIM/openIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutor/tutor.iml" filepath="$PROJECT_DIR$/tutor/tutor.iml" />
+    </modules>
+  </component>
+</project>

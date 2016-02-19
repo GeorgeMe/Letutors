@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_normal_color">#666666</color>
+    <color name="tab_pressed_color">#35a5e7</color>
+    <color name="common_text_color2">#ff666666</color>
+    <color name="setting_line_color">#cccccc</color>
+    <color name="common_text_color">#ff333333</color>
+    <color name="setting_grey_bg_nor">#F0F0F0</color>
+    <color name="select_item">#39BCED</color>
+</resources>

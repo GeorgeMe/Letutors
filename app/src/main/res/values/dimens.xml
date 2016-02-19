@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="setting_layout_padding">15dip</dimen>
+    <dimen name="column_up_unit_margin">10dip</dimen>
+    <dimen name="common_btn_height">35dip</dimen>
+    <dimen name="common_unit_margin">8dip</dimen>
+
+    <dimen name="search_button_w">84dip</dimen>
+    <dimen name="column_height">47dip</dimen>
+    <dimen name="font_second_grade">14sp</dimen>
+
+    <dimen name="common_big_head_size">55dip</dimen>
+    <dimen name="friend_info_btn_width">148dip</dimen>
+</resources>

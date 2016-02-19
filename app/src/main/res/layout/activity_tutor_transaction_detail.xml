@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activity.TutorTransactionDetailActivity">
+    <include layout="@layout/bar_for_transaction_detail"/>
+    <com.dmd.tutor.widgets.XSwipeRefreshLayout
+        android:id="@+id/transaction_detail_list_swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.dmd.letutors.widgets.LoadMoreListView
+            android:id="@+id/transaction_detail_list_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:fadingEdge="none"
+            android:fadingEdgeLength="0dp"
+            android:listSelector="@android:color/transparent"
+            android:overScrollMode="never"
+            android:scrollbars="none"/>
+    </com.dmd.tutor.widgets.XSwipeRefreshLayout>
+</LinearLayout>
